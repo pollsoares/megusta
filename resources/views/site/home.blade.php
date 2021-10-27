@@ -35,10 +35,9 @@
                 <rect width="100%" height="100%" fill="#777" /></svg>
             <div class="container">
                 <div class="carousel-caption">
-                    <h1>Another example headline.</h1>
-                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta
-                        gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+                    <h1>Chocolates deliciosos para alegrar seu paladar.</h1>
+                    <p>Não perca tempo!.</p>
+                    <p><a class="btn btn-lg btn-primary" href="/produtos" role="button">Veja mais</a></p>
                 </div>
             </div>
         </div>
@@ -48,21 +47,20 @@
                 <rect width="100%" height="100%" fill="#777" /></svg>
             <div class="container">
                 <div class="carousel-caption text-right">
-                    <h1>One more for good measure.</h1>
-                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta
-                        gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+                    <h1>Balas de chocolate feitas com carinho.</h1>
+                    <p>Esta esperando oque?</p>
+                    <p><a class="btn btn-lg btn-primary" href="/produtos" role="button">Galeria</a></p>
                 </div>
             </div>
         </div>
     </div>
     <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
+        <span class="sr-only">Anterior</span>
     </a>
     <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
+        <span class="sr-only">Proximo</span>
     </a>
 </div>
 
@@ -119,11 +117,8 @@
 
     <div class="row featurette">
         <div class="col-md-7">
-            <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It’ll blow your
-                    mind.</span></h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis
-                euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus,
-                tellus ac cursus commodo.</p>
+            <h2 class="featurette-heading">A primeira maravilha! <span class="text-muted">Esta vai atrapalhar a sua mente.</span></h2>
+            <p class="lead">Trufa de chocolate, feita com ingredientes de primeira qualidade, muito amor e carinho!</p>
         </div>
         <div class="col-md-5">
             <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500"
@@ -140,11 +135,8 @@
 
     <div class="row featurette">
         <div class="col-md-7 order-md-2">
-            <h2 class="featurette-heading">Oh yeah, it’s that good. <span class="text-muted">See for
-                    yourself.</span></h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis
-                euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus,
-                tellus ac cursus commodo.</p>
+            <h2 class="featurette-heading">Oh sim, isto é muito bom! <span class="text-muted">Veja e se apaixone.</span></h2>
+            <p class="lead">Balas de chocolate, feitas com muita paixão e sentimento!</p>
         </div>
         <div class="col-md-5 order-md-1">
             <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500"
@@ -161,10 +153,8 @@
 
     <div class="row featurette">
         <div class="col-md-7">
-            <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis
-                euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus,
-                tellus ac cursus commodo.</p>
+            <h2 class="featurette-heading">E por fim! que tal um bolo? <span class="text-muted">Checkmate.</span></h2>
+            <p class="lead">Este bolo de chocolate, feito com muito amor e carinho, pronto para ser apreciado!</p>
         </div>
         <div class="col-md-5">
             <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500"
