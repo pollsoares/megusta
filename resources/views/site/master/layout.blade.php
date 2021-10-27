@@ -16,7 +16,7 @@
 <body>
 
     <header>       
-        <nav class="navbar navbar-expand-md navbar-dark fixed-top" style="background-color: #e74c3c;">
+        <nav class="navbar navbar-expand-md navbar-dark fixed-top" style="background-color: brown;">
             <a class="navbar-brand" href="#"><strong>Me Gusta</strong></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
                 aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -48,7 +48,7 @@
     <!-- FOOTER -->
     <footer class="container">
         <p class="float-right"><a href="#">Voltar ao topo da página</a></p>
-        <p>&copy; {{ date('yy')}} Me Gusta - Sobremesas e Chocolates. &middot; <a href="#">Privacidade</a> &middot;
+        <p>&copy; {{ date('y')}} Me Gusta - Sobremesas e Chocolates. &middot; <a href="#">Privacidade</a> &middot;
             <a href="#">Termos</a></p>
     </footer>
 
